@@ -1,4 +1,4 @@
-import{s,j as n}from"./index-634d1739.js";const g="/Power-Pulse/assets/main_bg_mob_x2-dd403410.jpg",r="/Power-Pulse/assets/main_bg_mob-8f07bae4.jpg",m="/Power-Pulse/assets/main_bg_tab_x2-54594741.jpg",p="/Power-Pulse/assets/main_bg_tab-d37027fc.jpg",a=s.h1`
+import{s,j as n}from"./index-ab408f2e.js";const g="/Power-Pulse/assets/main_bg_mob_x2-dd403410.jpg",r="/Power-Pulse/assets/main_bg_mob-8f07bae4.jpg",m="/Power-Pulse/assets/main_bg_tab_x2-54594741.jpg",p="/Power-Pulse/assets/main_bg_tab-d37027fc.jpg",a=s.h1`
   color: rgba(239, 237, 232, 1);
   font-size: 38px;
   line-height: 1.05;
